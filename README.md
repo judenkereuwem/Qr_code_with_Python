@@ -10,4 +10,8 @@ Working:
 
 
 - Run the "decode_qr_code.py" to read/decode the saved Qr code image from the above code and display the link behind the Qr code.
+
+![My Image](qr_result.png)
+
+
 - Run the "scan_qr_code.py" to scan Qr code image with a webcam and diaply the link behind the Qr code.
